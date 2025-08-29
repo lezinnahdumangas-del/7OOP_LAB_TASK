@@ -2,7 +2,7 @@
 This contains all of the Project and Laboratory Activities in 7OOP
 
 <p align="center">
-  <img Src = images/Messenger_creation_224F520D-88C4-4B14-BB4F-F762E5BAC568.jpeg"
+  <img Src = https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/Messenger_creation_224F520D-88C4-4B14-BB4F-F762E5BAC568.jpeg"
   width="190" height="180" />
 </p>
 
