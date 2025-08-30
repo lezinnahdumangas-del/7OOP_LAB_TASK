@@ -40,7 +40,6 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 💻 My Projects  
 - 🧪 **MIDTERM**  
   - MIDTERM LAB TASK 1: 📂 Object-Oriented Analysis  
-- 🔥 More projects coming soon...  
 
 ---
 
