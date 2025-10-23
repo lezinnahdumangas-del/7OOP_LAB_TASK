@@ -1,5 +1,156 @@
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-modernist
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Red-Themed Portfolio</title>
+  <style>
+    :root {
+      --main-red: #710C04;
+      --light-red: #a81a10;
+      --background: #f9f9f9;
+      --text-dark: #222;
+      --text-light: #fff;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: var(--background);
+      color: var(--text-dark);
+    }
+
+    header {
+      background-color: var(--main-red);
+      color: var(--text-light);
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+    }
+
+    nav {
+      background-color: var(--light-red);
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      padding: 1rem;
+    }
+
+    nav a {
+      color: var(--text-light);
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h2 {
+      color: var(--main-red);
+      border-left: 5px solid var(--main-red);
+      padding-left: 10px;
+    }
+
+    .card {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-top: 1rem;
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      border-color: var(--main-red);
+      box-shadow: 0 4px 15px rgba(113, 12, 4, 0.2);
+    }
+
+    footer {
+      background-color: var(--main-red);
+      color: var(--text-light);
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 3rem;
+    }
+
+    .socials a {
+      color: var(--text-light);
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 1.2rem;
+    }
+
+    .socials a:hover {
+      color: #ffd1cf;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Designed with passion and the color <strong>#710C04</strong> ❤️</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <div class="card">
+      <p>Hi! I'm a developer who loves elegant design and clean code. This portfolio is themed with my favorite deep red — <code>#710C04</code>.</p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="card">
+      <h3>🔧 Project One</h3>
+      <p>A web app built using HTML, CSS, and JavaScript. It’s fast, minimal, and powered by passion.</p>
+    </div>
+    <div class="card">
+      <h3>🎨 Project Two</h3>
+      <p>A design system centered around the bold red tone <strong>#710C04</strong>.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="card">
+      <p>Let’s collaborate! Feel free to reach out via:</p>
+      <div class="socials">
+        <a href="mailto:you@example.com">📧 Email</a>
+        <a href="https://github.com/yourusername" target="_blank">💻 GitHub</a>
+        <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ and <strong>#710C04</strong></p>
+  </footer>
+
+</body>
+</html>
