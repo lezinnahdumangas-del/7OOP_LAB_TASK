@@ -32,7 +32,10 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ---
 
 ## 👩‍💻 Languages I Use  
-💻 C  
+💻  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.jpeg"
+  width="100" height="100" />
+</p>
+
 💻 Java  
 
 ---
