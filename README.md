@@ -20,7 +20,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 💡 What I Believe In  
 - 🌱 Everything happens for a reason.
 - 🚀 Do what makes you happy 
-- 🪙 If you think money can't buy happiness give it to me.
+- 🪙 If you think money can't buy happiness, give it to me.
 
 ---
 
@@ -33,10 +33,8 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 
 ## 👩‍💻 Languages I Use  
  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.jpeg"
-  width="100" height="100" />
-</p> 
-
-  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"
+  width="100" height="100" /> </p>   <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"
+  width="100" height="100" /> </p>  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg"
   width="100" height="100" />
 </p>
 
@@ -79,11 +77,9 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ---
 
 ## 📌 Skills   
-- Positive Thinker 😊  
+- Time management ⌚ 
 - Problem Solving 🧮
-- Open-Minded 🧠  
-- Adaptability 🔄  
-
+  
 ---
 ## 📬 CONTACTS  
 - 📘 [Facebook](https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
