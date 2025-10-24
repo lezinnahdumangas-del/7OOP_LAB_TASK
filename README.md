@@ -48,8 +48,8 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   - LAB TASK 3: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
   - LAB TASK 4: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
   - LAB TASK 5: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
- 
-  - **FINALS**
+  
+- 🧪 **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
 
 ---
