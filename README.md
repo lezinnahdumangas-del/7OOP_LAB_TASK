@@ -74,7 +74,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   
 ---
 ## 📬 CONTACTS  
-- :[Facebook]:(https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
-- :[Instagram]:(https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw)
+- [Facebook](https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
+- [Instagram](https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw)
 
 ---
