@@ -32,10 +32,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ---
 
 ## 👩‍💻 Languages I Use  
- <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.jpeg"
-  width="100" height="100" /> </p>   <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"
-  width="100" height="100" /> </p>  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg"
-  width="100" height="100" />
+ <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.jpeg" width="100" height="100" /> </p>   <img Src = "https://github.com/lezinnahdumangasdel/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"width="100" height="100" /> </p>  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg" width="100" height="100" />
 </p>
 
 
@@ -43,11 +40,12 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 
 ## 💻 My Projects  
 - 🌓 **MIDTERM**  
-  - LAB TASK 1: 📂 [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
-  - LAB TASK 2: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
-  - LAB TASK 3: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
-  - LAB TASK 4: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
-  - LAB TASK 5: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
+  - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
+  - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](https://docs.google.com/document/d/1IEIrcqxIQLpouFQvMIa_5TucaH94VfcAno-2gPQwHWU/edit?pli=1&tab=t.0)
+  - LAB TASK 3: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
+  - LAB TASK 4: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
+  - LAB TASK 5: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
+  - LAB TASK 6: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
   
 - 🔚 **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
@@ -57,7 +55,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 🎯 Areas of Interest ‼️
 - 🧮 Learning new things  
 - 🏋️ Self-improvement  
-- 📖 Reading books (Wattpad stories)
+- :closed_book: Reading books (Wattpad stories)
 - 🦞 Exploring new places and trying different foods 
 ---
 
@@ -76,8 +74,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   
 ---
 ## 📬 CONTACTS  
-- 📘 [Facebook](https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
-- 👥
-[Instagram](https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw)
-- 
+- :[Facebook]:(https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
+- :[Instagram]:(https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw)
+
 ---
