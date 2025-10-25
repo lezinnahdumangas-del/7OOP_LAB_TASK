@@ -20,7 +20,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 🌹 What I Believe In 🌹
 - 🌱 Everything happens for a reason.
 - 🎾 Do what makes you happy 
-- :money_with_wings: If you think money can't buy happiness, give it to me.
+- 🤑 If you think money can't buy happiness, give it to me.
 
 ---
 
