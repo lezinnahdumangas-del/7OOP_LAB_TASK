@@ -49,10 +49,10 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 - :first_quarter_moon_with_face: **MIDTERM**  
   - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
   - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](file:///C:/Users/user/Downloads/m_task1.pdf)
-  - LAB TASK 3: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
-  - LAB TASK 4: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
-  - LAB TASK 5: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
-  - LAB TASK 6: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
+  - LAB TASK 2: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
+  - LAB TASK 3: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
+  - LAB TASK 4: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
+  - LAB TASK 5: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
   
 - :last_quarter_moon_with_face: **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
