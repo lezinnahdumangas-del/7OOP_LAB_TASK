@@ -32,13 +32,18 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ---
 
 ## 👩‍💻 Languages I Use  
- <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"width="100" height="100" /> 
- </p> 
- <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg" width="100" height="100" />
+<p align="center">
+  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.png"
+  width="50" height="50" />
 </p>
- <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg" width="100" height="100" />
+<p align="center">
+  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download.jpeg"
+  width="50" height="50" />
 </p>
-
+<p align="center">
+  <img Src = "https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/download (1).jpeg"
+  width="50" height="50" />
+</p>
 
 ---
 
