@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Red-Themed Portfolio</title>
-  <style>
-    :root {
-      --main-red: #710C04;
-      --light-red: #a81a10;
-      --background: #f9f9f9;
-      --text-dark: #222;
-      --text-light: #fff;
-    }
+inherit_gem:
+  rubocop-github:
+    - config/default.yml
+
+AllCops:
+  Exclude:
+    - _site/**/*
+    - vendor/**/*
+
+Layout/LineLength:
+  Enabled: false
 
   
