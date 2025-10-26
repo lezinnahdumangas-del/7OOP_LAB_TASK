@@ -15,6 +15,7 @@ This contains all of the Project and Laboratory Activities in 7OOP
 
 ## 🎀 About Me 🎀 
 I am an enthusiastic Computer Science student. I enjoy learning new skills, collaborating with others. My goal is to continue growing academically and professionally.
+
 ---
 
 ## 🌹 What I Believe In 🌹
@@ -63,7 +64,8 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 - 🧮 Learning new things  
 - 🏋️ Self-improvement  
 - :closed_book: Reading books (Wattpad stories)
-- 🦞 Exploring new places and trying different foods 
+- 🦞 Exploring new places and trying different foods
+  
 ---
 
 ## :maple_leaf: Fun Facts About Me :maple_leaf:
@@ -80,6 +82,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 - Problem Solving 🧮
   
 ---
+
 ## 📬 CONTACTS  
 - [Facebook](https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL)  
 - [Instagram](https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw)
