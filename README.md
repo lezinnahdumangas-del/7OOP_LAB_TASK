@@ -63,7 +63,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 🎯 Areas of Interest ‼️
 - 🧮 Learning new things  
 - 🏋️ Self-improvement  
-- 📖💃👠🎭🍷💊 Reading books (Wattpad stories)
+- 📖 Reading books (Wattpad stories)
 - 🦞 Exploring new places and trying different foods
   
 ---
