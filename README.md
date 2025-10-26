@@ -47,7 +47,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ---
 
 ## 💻 My Projects  
-- :first_quarter_moon_with_face: **MIDTERM**  
+- 🌛 **MIDTERM**  
   - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIJbF4v2GAqn78scG)
   - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
   - LAB TASK 2: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
@@ -55,7 +55,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   - LAB TASK 4: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
   - LAB TASK 5: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
   
-- :last_quarter_moon_with_face: **FINALS**
+- 🌜 **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
 
 ---
@@ -63,17 +63,17 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 🎯 Areas of Interest ‼️
 - 🧮 Learning new things  
 - 🏋️ Self-improvement  
-- :closed_book: Reading books (Wattpad stories)
+- 📖💃👠🎭🍷💊 Reading books (Wattpad stories)
 - 🦞 Exploring new places and trying different foods
   
 ---
 
-## :maple_leaf: Fun Facts About Me :maple_leaf:
-- 🎎 I enjoy both group activities and quiet solo 
+## 💃 Fun Facts About Me 💊
+- 🥂 I enjoy both group activities and quiet solo 
 - 🎸 I love listening to music  
 - 🌃 I have higher energy at night
 - ☕ I can't start the day without coffee
-- 🤡 I laugh at my own jokes 
+- 🎭 I laugh at my own jokes 
 
 ---
 
