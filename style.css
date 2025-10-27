@@ -6,75 +6,111 @@
   <title>💎 Hannizel Dumangas | 7OOP Laboratory Projects 💎</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    /* ✨ Ruby Galaxy Theme ✨ */
-    body {
+    /* 🌹 Ruby Galaxy Elegant Theme 🌹 */
+    * {
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
       font-family: 'Poppins', sans-serif;
-      background: radial-gradient(circle at top left, #2b0016, #100010, #000);
+      background: radial-gradient(circle at center, #400010, #7a001c, #b30027, #ff0040);
       color: #fff;
       overflow-x: hidden;
+      position: relative;
     }
 
+    /* ✨ Sparkle Animation */
+    .sparkle {
+      position: absolute;
+      width: 3px;
+      height: 3px;
+      background: radial-gradient(circle, #fff, rgba(255, 0, 50, 0.7));
+      border-radius: 50%;
+      animation: sparkle 6s linear infinite;
+      opacity: 0.8;
+    }
+
+    @keyframes sparkle {
+      0% {
+        transform: translateY(0) translateX(0);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(-100vh) translateX(40px);
+        opacity: 0;
+      }
+    }
+
+    /* 🔹 Container Design */
     .container {
       max-width: 900px;
-      margin: 40px auto;
-      padding: 25px;
-      background: rgba(255, 255, 255, 0.07);
-      border-radius: 20px;
-      box-shadow: 0 0 30px rgba(255, 0, 60, 0.4);
-      backdrop-filter: blur(10px);
+      margin: 60px auto;
+      padding: 30px;
+      background: rgba(255, 50, 70, 0.1);
+      border-radius: 25px;
+      border: 1px solid rgba(255, 100, 130, 0.4);
+      box-shadow: 0 0 50px rgba(255, 0, 50, 0.7);
+      backdrop-filter: blur(12px);
+      position: relative;
+      z-index: 2;
     }
 
+    /* 🔹 Header */
     header {
       text-align: center;
       color: #fff;
-      text-shadow: 0 0 15px #ff003c;
-      margin-bottom: 30px;
+      text-shadow: 0 0 25px #ff0048, 0 0 60px #ff005a;
+      margin-bottom: 35px;
     }
 
     header h1 {
       font-family: 'Playfair Display', serif;
-      font-size: 2.3em;
-      margin: 0;
+      font-size: 2.8em;
+      letter-spacing: 1px;
     }
 
     .subtitle {
-      color: #ff99aa;
+      color: #ffc9d5;
       font-style: italic;
-      margin-top: 8px;
+      margin-top: 10px;
+      text-shadow: 0 0 12px #ff6688;
     }
 
+    /* 🔹 Section Styling */
     section {
-      margin-top: 30px;
+      margin-top: 35px;
       padding: 20px;
       border-radius: 15px;
-      background: rgba(255, 255, 255, 0.05);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      background: linear-gradient(145deg, rgba(255, 50, 80, 0.15), rgba(255, 80, 120, 0.1));
+      border: 1px solid rgba(255, 90, 120, 0.3);
+      transition: all 0.4s ease;
     }
 
     section:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);
+      transform: translateY(-5px);
+      box-shadow: 0 0 30px rgba(255, 0, 50, 0.9);
     }
 
     h2 {
-      color: #ff4b6e;
-      border-bottom: 1px solid #ff6688;
+      color: #ff003c;
+      border-bottom: 2px solid #ff80a0;
       padding-bottom: 5px;
       font-family: 'Playfair Display', serif;
+      text-shadow: 0 0 12px #ff6080;
     }
 
     a {
-      color: #ff4b6e;
+      color: #ff3355;
       text-decoration: none;
       font-weight: bold;
-      transition: color 0.3s ease;
+      transition: color 0.3s ease, text-shadow 0.3s ease;
     }
 
     a:hover {
-      color: #ffa3b5;
-      text-shadow: 0 0 10px #ff6688;
+      color: #ff99b3;
+      text-shadow: 0 0 12px #ff6688;
     }
 
     ul {
@@ -86,153 +122,80 @@
       margin-bottom: 8px;
     }
 
+    /* 🔹 Profile Section */
     .profile {
       text-align: center;
     }
 
     .profile img {
-      border-radius: 15px;
+      border-radius: 20px;
       border: 3px solid #ff4b6e;
-      box-shadow: 0 0 30px rgba(255, 0, 100, 0.6);
-      width: 200px;
-      height: 260px;
+      box-shadow: 0 0 40px rgba(255, 0, 60, 0.9);
+      width: 210px;
+      height: 270px;
       object-fit: cover;
+      transition: transform 0.5s ease, box-shadow 0.5s ease;
+    }
+
+    .profile img:hover {
+      transform: scale(1.06);
+      box-shadow: 0 0 60px rgba(255, 50, 100, 1);
     }
 
     .profile-name {
       margin-top: 15px;
-      font-size: 1.4em;
-      font-weight: 600;
-      background: linear-gradient(90deg, #ff0048, #ff66a3, #ffd1dc);
+      font-size: 1.6em;
+      font-weight: 700;
+      background: linear-gradient(90deg, #ff002f, #ff5570, #ff99aa, #fff);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       animation: glow 2s infinite alternate;
     }
 
     @keyframes glow {
-      from { text-shadow: 0 0 10px #ff0066; }
-      to { text-shadow: 0 0 25px #ff80b3; }
+      from { text-shadow: 0 0 15px #ff0055; }
+      to { text-shadow: 0 0 35px #ff99b8; }
     }
 
     footer {
       text-align: center;
-      margin-top: 40px;
-      color: #ff99aa;
-      font-size: 0.95em;
+      margin-top: 50px;
+      color: #ffd2da;
+      font-size: 1em;
       padding: 15px;
-      border-top: 1px solid rgba(255, 100, 150, 0.3);
+      border-top: 1px solid rgba(255, 130, 150, 0.4);
     }
 
     footer span {
       color: #ff4b6e;
-      text-shadow: 0 0 10px #ff4b6e;
+      text-shadow: 0 0 15px #ff0048;
+      font-weight: 600;
     }
   </style>
 </head>
 
 <body>
+  <!-- ✨ Sparkles Background -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const sparkleCount = 60;
+      for (let i = 0; i < sparkleCount; i++) {
+        const sparkle = document.createElement('div');
+        sparkle.className = 'sparkle';
+        sparkle.style.left = Math.random() * 100 + 'vw';
+        sparkle.style.top = Math.random() * 100 + 'vh';
+        sparkle.style.animationDuration = (5 + Math.random() * 5) + 's';
+        sparkle.style.animationDelay = Math.random() * 5 + 's';
+        document.body.appendChild(sparkle);
+      }
+    });
+  </script>
+
   <div class="container">
     <header>
       <h1>7OOP Laboratory Projects</h1>
       <p class="subtitle">Showcasing projects completed during 7OOP studies</p>
     </header>
-      
 
     <section class="profile">
-      <p align="center">
-        <img src="https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec5bfb69808334abbc93ff10f/images/Messenger_creation_224F520D-88C4-4B14-BB4F-F762E5BAC568.jpeg"
-        width="190" height="250" />
-      </p>
-    </section>
-
-    <section class="about">
-      <h2>About Me</h2>
-      <p>I am an enthusiastic Computer Science student. I enjoy learning new skills and collaborating with others. My goal is to continue growing acade
-    <section class="about">
-      <h2>About Me</h2>
-      <p>I am an enthusiastic Computer Science student. I enjoy learning new skills and collaborating with others. My goal is to continue growing academically and professionally.</p>
-    </section>
-
-    <section class="beliefs">
-      <h2>What I Believe In</h2>
-      <ul>
-        <li>🥂 Everything happens for a reason.</li>
-        <li>🥰 Do what makes you happy.</li>
-      </ul>
-    </section>
-
-    <section class="education">
-      <h2>Education</h2>
-      <ul>
-        <li>🎓 Senior High School: Angeles City National Trade School</li>
-        <li>🎓 Junior High School: Angeles City National Trade School</li>
-        <li>🎓 Elementary: Cut-cut Elementary School</li>
-      </ul>
-    </section>
-
-    <section class="languages">
-      <h2>Languages I Use</h2>
-      <p>Python, Java, C++</p>
-    </section>
-
-    <section class="projects">
-      <h2>Projects</h2>
-      <h3>Midterms</h3>
-      <ul>
-        <li><a href="https://sg.docworkspace.com/d/sIJbF4v2GAqn78scG">LAB TASK1: Object-Oriented Analysis</a></li>
-        <li><a href="https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG">LAB TASK 1: Using Appropriate Escape Sequence</a></li>
-        <li><a href="https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG">LAB TASK 2: Loops and Functions</a></li>
-        <li><a href="https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG">LAB TASK 3: List and Collection Types</a></li>
-        <li><a href="https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG">LAB TASK 4: Dictionaries</a></li>
-        <li><a href="https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG">LAB TASK 5: Classes and Instantiating Objects</a></li>
-      </ul>
-
-      <h3>Finals</h3>
-      <ul>
-        <li><a href="https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG">LAB TASK 1: Encapsulation</a></li>
-      </ul>
-    </section>
-
-    <section class="interests">
-      <h2>Areas of Interest</h2>
-      <ul>
-        <li>🎾 Learning new things</li>
-        <li>👍 Self-improvement</li>
-        <li>📖 Reading books (Wattpad stories)</li>
-        <li>💊 Exploring new places and trying different foods</li>
-      </ul>
-    </section>
-
-    <section class="fun-facts">
-      <h2>Fun Facts About Me</h2>
-      <ul>
-        <li>🎎 I enjoy both group activities and quiet solo time.</li>
-        <li>🎸 I love listening to music.</li>
-        <li>🌃 I have higher energy at night.</li>
-        <li>☕ I can't start the day without coffee.</li>
-        <li>🎭 I laugh at my own jokes.</li>
-      </ul>
-    </section>
-
-    <section class="skills">
-      <h2>Skills</h2>
-      <ul>
-        <li>⌚ Time management</li>
-        <li>🧮 Problem Solving</li>
-      </ul>
-    </section>
-
-    <section class="contacts">
-      <h2>Contacts</h2>
-      <ul>
-        <li><a href="https://www.facebook.com/honey.dmgs?mibextid=ZbWKwL">Facebook</a></li>
-        <li><a href="https://www.instagram.com/ha_yahhh12?igsh=OTlzY283aGQ0dTFw">Instagram</a></li>
-      </ul>
-    </section>
-
-    <footer>
-      <p>&copy; 2025 Hannizel Dumangas | All Rights Reserved</p>
-    </footer>
-  </div>
-</body>
-</html>
+      <img src="https://github.com/lezinnahdumangas-del/7OOP_LAB_TASK/blob/ca755dc8a785e9cec
