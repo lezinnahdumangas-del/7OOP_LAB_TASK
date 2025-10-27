@@ -10,7 +10,7 @@
   <style>
     body {
       font-family: 'Roboto', sans-serif;
-      background-color: #fff;
+      background-color: #960018; /* 🌹 Carmine background */
       color: #333;
       margin: 0;
       padding: 0;
@@ -18,17 +18,20 @@
 
     .container {
       max-width: 900px;
-      margin: 0 auto;
+      margin: 40px auto;
       padding: 20px;
+      background-color: #fff; /* White content box for readability */
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     }
 
     header {
-      background-color: #960018; /* Carmine */
+      background-color: #b3001b; /* Slightly lighter Carmine for contrast */
       color: white;
       text-align: center;
       padding: 25px;
-      border-radius: 0 0 20px 20px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
 
     h1 {
@@ -63,7 +66,7 @@
 
     a:hover {
       text-decoration: underline;
-      color: #b3001b; /* Slightly lighter Carmine */
+      color: #b3001b; /* Lighter Carmine */
     }
 
     ul {
@@ -76,11 +79,11 @@
     }
 
     footer {
-      background-color: #960018; /* Carmine */
+      background-color: #b3001b;
       color: white;
       text-align: center;
       padding: 15px;
-      border-radius: 20px 20px 0 0;
+      border-radius: 10px;
       margin-top: 40px;
     }
   </style>
@@ -100,6 +103,9 @@
       </p>
     </section>
 
+    <section class="about">
+      <h2>About Me</h2>
+      <p>I am an enthusiastic Computer Science student. I enjoy learning new skills and collaborating with others. My goal is to continue growing acade
     <section class="about">
       <h2>About Me</h2>
       <p>I am an enthusiastic Computer Science student. I enjoy learning new skills and collaborating with others. My goal is to continue growing academically and professionally.</p>
