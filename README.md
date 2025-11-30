@@ -57,6 +57,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   
 - 🌜 **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
+  - LAB TASK 2: 📂 [INHERITANCE](<file://C:\Users\admin\Downloads\Hannizel(inheritance).docx>)
 
 ---
 
