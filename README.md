@@ -49,11 +49,11 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 ## 💻 My Projects  
 - 🌛 **MIDTERM**  
   - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](MIDTERM/DiazDumangas_c204_pairedAct.pdf)
-  - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
-  - LAB TASK 2: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
-  - LAB TASK 3: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
-  - LAB TASK 4: 📂 [Dictionaries](https://sg.docworkspace.com/d/sIK3F4v2GAr6U58cG)
-  - LAB TASK 5: 📂 [Classes and Instantiating Objects](https://sg.docworkspace.com/d/sIDzF4v2GAsWV58cG)
+  - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](MIDTERM/m_task1.pdf)
+  - LAB TASK 2: 📂 [Loops and Functions](MIDTERM/Hannizel Dumangas.pdf)
+  - LAB TASK 3: 📂 [List and Collection Types](MIDTERM/HannizelDumangas.pdf)
+  - LAB TASK 4: 📂 [Dictionaries](MIDTERM/Midterm Lab Task 2 Loops and Functions.docx)
+  - LAB TASK 5: 📂 [Classes and Instantiating Objects](MIDTERM/Midterm Lab Task 2 Loops and Functions.docx)
   
 - 🌜 **FINALS**
   - LAB TASK 1: 📂 [ENCAPSULATION](https://sg.docworkspace.com/d/sIKHF4v2GAu2X58cG)
