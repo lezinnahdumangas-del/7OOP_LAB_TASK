@@ -48,7 +48,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
 
 ## 💻 My Projects  
 - 🌛 **MIDTERM**  
-  - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIJbF4v2GAqn78scG)
+  - LAB TASK1 (Paired Task): 📂 [Object-Oriented Analysis](MIDTERM/DiazDumangas_c204_pairedAct.pdf)
   - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](https://sg.docworkspace.com/d/sIGbF4v2GAoSO58cG)
   - LAB TASK 2: 📂 [Loops and Functions](https://sg.docworkspace.com/d/sIJjF4v2GAr2P58cG)
   - LAB TASK 3: 📂 [List and Collection Types](https://sg.docworkspace.com/d/sIELF4v2GAqmR58cG)
