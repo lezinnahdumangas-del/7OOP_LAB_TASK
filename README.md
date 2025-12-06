@@ -52,7 +52,7 @@ I am an enthusiastic Computer Science student. I enjoy learning new skills, coll
   - LAB TASK 1: 📂 [Using Appropriate Escape Sequence](MIDTERM/m_task1.pdf)
   - LAB TASK 2: 📂 [Loops and Functions](MIDTERM/Midterm Lab Task 2 Loops and Functions.pdf)
   - LAB TASK 3: 📂 [List and Collection Types](MIDTERM/HannizelDumangas.pdf)
-  - LAB TASK 4: 📂 [Dictionaries](MIDTERM/Midterm Lab Task 2 Loops and Functions.pdf)
+  - LAB TASK 4: 📂 [Dictionaries](MIDTERM/HannizelDumangas.pdf)
   - LAB TASK 5: 📂 [Classes and Instantiating Objects](MIDTERM/Midterm Lab Task 5 Creating Classes and Objects.pdf)
   
 - 🌜 **FINALS**
